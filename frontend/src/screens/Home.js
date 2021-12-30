@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import BASE_URL from '../../config/Config';
+import BASE_URL from '../../frontend/config/Config';
 import Container from '../components/Container';
 import UserCard from '../components/UserCard';
 

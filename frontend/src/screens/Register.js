@@ -6,7 +6,7 @@ import Container from '../components/Container';
 import Input from '../components/Input';
 import axios from 'axios';
 import Home from './Home';
-import BASE_URL from '../../config/Config';
+import BASE_URL from '../../frontend/config/Config';
 
 
 const api = axios.create(BASE_URL)
